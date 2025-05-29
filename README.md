@@ -15,6 +15,9 @@ A lightweight, single-header virtual file system written in C++ for embedding an
 - Building tools or engines that require custom VFS layers  
 - Managing virtual assets with versioning
 
+### Requierments
+- nlohmann::json
+
 ---
 
 > **Note:** Designed for Windows environments (uses WinAPI).
